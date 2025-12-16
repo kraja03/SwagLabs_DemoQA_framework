@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="com.sparta.simpletests.SwagLabsSerenityTests" skipped="0" tests="1" time="1.3" timestamp="2025-11-11 01:34:55"><testcase classname="com.sparta.simpletests.SwagLabsSerenityTests" name="Given I am logged in, when I click logout, then I should land on the login page"/></testsuite>

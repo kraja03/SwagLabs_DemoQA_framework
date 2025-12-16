@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="com.sparta.simpletests.SwagLabsSerenityTests" skipped="0" tests="1" time="1.36" timestamp="2025-11-11 01:35:02"><testcase classname="com.sparta.simpletests.SwagLabsSerenityTests" name="Given I am logged in as a registered user, when I add product to cart, the cart updates"/></testsuite>
